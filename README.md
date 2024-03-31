@@ -1,8 +1,12 @@
 # Find the square root of a number
 
 Program to find the square root for the given number(newton's method) using function.
+
 Developed by: PREETHI S
-RegisterNumber: 212223230157 
+
+RegisterNumber: 212223230157
+
+Dept:AIDS
 
 
 ## AIM:
